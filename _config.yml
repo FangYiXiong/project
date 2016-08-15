@@ -1,7 +1,7 @@
-title: Jekyll Scroll
-description: An one-page scrollable theme for Jekyll
+title: 我的项目
+description: Projects by Yixiong Fang(@fangyixiong)
 baseurl: "/"
-url: "project.iosinit.com"
+url: "jekyllscroll.onevcat.com"
 
 # Build settings
 #markdown: redcarpet
