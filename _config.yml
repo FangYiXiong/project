@@ -1,6 +1,6 @@
 title: Jekyll Scroll
 description: An one-page scrollable theme for Jekyll
-baseurl: "/"
+url: "project.iosinit.com"
 
 # Build settings
 markdown: redcarpet
