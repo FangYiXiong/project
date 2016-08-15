@@ -1,6 +1,6 @@
 title: Jekyll Scroll
 description: An one-page scrollable theme for Jekyll
-url: "jekyllscroll.onevcat.com"
+baseurl: /
 
 # Build settings
 markdown: redcarpet
