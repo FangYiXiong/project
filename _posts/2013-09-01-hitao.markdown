@@ -1,0 +1,21 @@
+---
+layout: post
+title: 阿里巴巴 - 嗨淘（Alibaba - Hitao）
+date: 2013-09-01 16:22:38.000000000 +09:00
+---
+`2013 - 2014`
+
+![](assets/images/hitao.png)
+
+<center>
+<h1>
+<a href="https://itunes.apple.com/cn/app/hai-tao-quan-qiu-hai-tao-zheng/id1017571463?mt=8" class="fa fa-apple"></a>
+</h1>
+</center>
+
+[嗨淘](www.hitao.com)是淘宝网与湖南卫视共同打造的 B2C 电子商城，主要定位于 18 - 35 岁的时尚女性，日 PV 百万级，年销售额 7 亿元。我于 2013 年底参与该商城的原生 iOS 客户端的开发。我作为主程一个人完成了几乎全部的 iOS 客户端开发任务。
+
+`JekyllScroll` is a theme for [Jekyll](http://jekyllrb.com). This theme is 
+originally designed by [Yonatan](http://grmmph.com/) and named as 
+[GhostScroll](http://ghostscroll.grmmph.com) for Ghost. I ported it to Jekyll since 
+I prefer to static site.
