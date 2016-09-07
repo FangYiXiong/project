@@ -11,4 +11,6 @@ date: 2016-07-01 16:22:38.000000000 +09:00
 
 你将从学习如何制作游戏的物理引擎，到怎样处理游戏中角色的碰撞，从记录玩家当前的分数和最高分，到如何给游戏增加炫酷的特效，以及最终提交到苹果的 App Store 所有这个过程中你需要知道的一切。
 
+<div class="github-card" data-user="fangyixiong" data-repo="flappyzoe" data-width="100%"></div>
+
 

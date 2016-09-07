@@ -3,8 +3,21 @@ layout: post
 title: Objc中国
 date: 2014-03-01 16:22:38.000000000 +09:00
 ---
-`2014 至今`
+`2014 May`
 
-Objc 中国
+![](assets/images/objccn.png)
+
+<center>
+<h1>
+<a href="https://www.objccn.io" class="fa fa-globe"></a>
+<a href="https://github.com/onevcat/JekyllScroll" class="fa fa-github"></a>
+</h1>
+</center>
+
+`ObjC 中国`是一个我发起的，社区共同维护翻译项目，旨在将 [objc.io](http://objc.io/) 的文章完整地翻译为准确和优雅的中文版本。objc.io 是一个非常棒的项目，它将一些很好的 objc 实践和技术无私地分享给世界。我觉得有必要也有兴趣将这些内容翻译为我的母语，分享给更多的中国开发者。而恰好社区内也有很多抱有同样想法的开发者，于是我们共同成立了 `ObjC 中国` 这个项目组，将这件事情做了下来。感谢这个项目所有的[贡献者](https://github.com/objccn/articles/graphs/contributors)，没有你们的努力就不会有这个项目的顺利进行和完成。
+
+`ObjC China` is a project I started and driven by the Chinese iOS dev community. Its purpose is translating all the articles in objc.io into Chinese, in a precise and elegant way. objc.io is a great project, which spreads a few best practice of objc to the world. I feel it is necessary to translate them into my mother language, and share it to all Chinese developers. The community is also intersted in it, so it leads the creation of `ObjC China` project. Thanks to all the contributors of this project, it can be done in a very short time.
+
+<div class="github-card" data-user="objccn" data-repo="articles" data-width="100%"></div>
 
 
